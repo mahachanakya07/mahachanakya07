@@ -17,7 +17,7 @@ Worked on projects like an Autonomous Navigationn Robot,Autonomous Object Drone 
 🌊 Sports Enthusiast: Participated in Kabaddi and Swimming at the college level.
 
 🚀 Current Focus
-ROS Development: Building and testing robotics applications using ROS Foxy.
+ROS Development: Building and testing robotics applications using ROS Foxy,Humble.
 Exploring Computer Vision techniques for robotics and industrial applications.
 Preparing for opportunities in Computer Vision Robotics Engineering roles.
 
